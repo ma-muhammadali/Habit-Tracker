@@ -12,10 +12,10 @@ Command Line Interface (CLI) Based Habit Tracker Application
 
 
 ## Features
-> User can create New Habits [Two period to choose : Daily or Weekly]
-> User can manage habits [complete task]
-> User can modify, delete & restore habits
-> User can analyze habits history
+[1] User can Create New Habits [Two period to choose : Daily or Weekly]\
+[2] User can Manage Habits [complete task]\
+[3] User can Modify, Delete & Restore Habits\
+[4] User can Analyze Habits\
 
 ## Link(github)
 
