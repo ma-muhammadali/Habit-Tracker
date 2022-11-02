@@ -13,8 +13,8 @@ Command Line Interface (CLI) Based Habit Tracker Application
 
 ## Features
 [1] User can Create New Habits [Two period to choose : Daily or Weekly]<br>
-[2] User can Manage Habits [complete task]\
-[3] User can Modify, Delete & Restore Habits\
+[2] User can Manage Habits [complete task]<br>
+[3] User can Modify, Delete & Restore Habits<br>
 [4] User can Analyze Habits
 
 ## Link(github)
@@ -31,15 +31,15 @@ pip install pytest
 
 ## Tested with pytest in 29th October 2022
 [1] Assert list date in this test has been set up with specific test date, 29th October 2022<br>
-[2] For different date, need to adjust dates following the assert list
-[3] Test folder : Habit_Tracker_Pytest (Habit_Tracker_Testing.py)
-[4] From command prompt type: pytest -v .\Habit_Tracker_Testing.py
+[2] For different date, need to adjust dates following the assert list<br>
+[3] Test folder : Habit_Tracker_Pytest (Habit_Tracker_Testing.py)<br>
+[4] From command prompt type: pytest -v .\Habit_Tracker_Testing.py<br>
 
 ## Tutorial How to Use Habit Tracker 
 
 In order to start Habit Tracker, just go to terminal and execute main.py file. When program starts
 
-Habit Tracker Login Menu will appear. User will be asked to:
+Habit Tracker Login Menu will appear. User will be asked to:<br>
 		[1] Create New User
 		[2] Login
 
