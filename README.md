@@ -41,8 +41,8 @@ In order to start Habit Tracker, just go to terminal and execute main.py file. W
 
 Habit Tracker Login Menu will appear. User will be asked to:<br>
 		
-		[1] Create New User<br>
-		[2] Login<br>
+		[1] Create New User
+		[2] Login
 
 Once user is login, Habit Tracker Main Menu will appear: 
 
