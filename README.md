@@ -46,10 +46,10 @@ Habit Tracker Login Menu will appear. User will be asked to:<br>
 
 Once user is login, Habit Tracker Main Menu will appear: 
 
-		[1] Enter 1 to CREATE NEW HABIT.
-		[2] Enter 2 to MANAGE HABITS (COMPLETE TASKS).
-		[3] Enter 3 to MODIFY, DELETE & RESTORE HABIT.
-		[4] Enter 4 to ANALYZE YOUR HABITS.
+		[1] Enter 1 to CREATE NEW HABIT
+		[2] Enter 2 to MANAGE HABITS (COMPLETE TASKS)
+		[3] Enter 3 to MODIFY, DELETE & RESTORE HABIT
+		[4] Enter 4 to ANALYZE YOUR HABITS
 			Choose Option 1 to 4 or Enter 'q' or 'Q' to quit.
       
 User can Create Habits, Checkoff Habit Task, Modify, and Analyse habits.
@@ -97,7 +97,7 @@ User can Create Habits, Checkoff Habit Task, Modify, and Analyse habits.
 		[10] Enter 10 to VIEW LONGEST RUN STREAK WEEKLY HABIT
 		[11] Enter 11 to VIEW LONGEST RUN STREAK AMONG ALL HABITS
 		[12] Enter 12 to VIEW LONGEST RUN STREAK GIVEN HABIT
-		[X] Enter X to EXIT.
+		[X] Enter X to EXIT
 
 
   User can analyze history using this menu.
