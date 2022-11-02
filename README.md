@@ -40,8 +40,9 @@ pip install pytest
 In order to start Habit Tracker, just go to terminal and execute main.py file. When program starts
 
 Habit Tracker Login Menu will appear. User will be asked to:<br>
-		[1] Create New User
-		[2] Login
+		
+		[1] Create New User.
+		[2] Login.
 
 Once user is login, Habit Tracker Main Menu will appear: 
 
