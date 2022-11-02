@@ -12,7 +12,7 @@ Command Line Interface (CLI) Based Habit Tracker Application
 
 
 ## Features
-[1] User can Create New Habits [Two period to choose : Daily or Weekly]\
+[1] User can Create New Habits [Two period to choose : Daily or Weekly]<br>
 [2] User can Manage Habits [complete task]\
 [3] User can Modify, Delete & Restore Habits\
 [4] User can Analyze Habits
@@ -30,7 +30,7 @@ Please install pytest using below command<br>
 pip install pytest
 
 ## Tested with pytest in 29th October 2022
-[1] Assert list date in this test has been set up with specific test date, 29th October 2022
+[1] Assert list date in this test has been set up with specific test date, 29th October 2022<br>
 [2] For different date, need to adjust dates following the assert list
 [3] Test folder : Habit_Tracker_Pytest (Habit_Tracker_Testing.py)
 [4] From command prompt type: pytest -v .\Habit_Tracker_Testing.py
