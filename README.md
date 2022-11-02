@@ -5,31 +5,22 @@ Command Line Interface (CLI) Based Habit Tracker Application
 ## By Muhammad Ali
 
 
-##===================================
 ## Tools & Libraries
-##===================================
 
-- created with python39
-- database with sqlite3
-- simple main loop for Main Page
+- Created with python 3.10.4
+- Database with sqlite3
 
 
-##===================================
 ## Features
-##===================================
-> Two period to choose : Daily or Weekly.
-> User can create New Habits, 
+> User can create New Habits [Two period to choose : Daily or Weekly]
+> User can manage habits [complete task]
 > User can modify, delete & restore habits
-> User can analyze habits history.
+> User can analyze habits history
 
-##===================================
 ## Link(github)
-##===================================
 
 
-##===================================
 ## Installation
-##===================================
 Please download and install PyCharm IDE using below link
 https://www.jetbrains.com/pycharm/
 
