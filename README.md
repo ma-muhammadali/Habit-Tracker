@@ -21,31 +21,23 @@ Command Line Interface (CLI) Based Habit Tracker Application
 
 
 ## Installation
-Please download and install PyCharm IDE using below link
+Please download and install PyCharm IDE using below link\n
 https://www.jetbrains.com/pycharm/
 
 
-##===================================
 ## For Testing
-##===================================
-Please install pytest using below link
+Please install pytest using below command\n
 pip install pytest
 
-##=========================================
 ## Tested with pytest in 29th October 2022
-##=========================================
-Assert list date in this test has been set up with specific test date, 29th October 2022.
-For different date, need to adjust dates following the assert list.
-Test folder : Habit_Tracker_Pytest (Habit_Tracker_Testing.py)
+Assert list date in this test has been set up with specific test date, 29th October 2022\n
+For different date, need to adjust dates following the assert list\n
+Test folder : Habit_Tracker_Pytest (Habit_Tracker_Testing.py)\n
 From command prompt type: pytest -v .\Habit_Tracker_Testing.py
 
-##===================================
 ## Tutorial How to Use Habit Tracker 
-##===================================
 
-In order to start Habit Tracker, just go to terminal and execute main.py file
-
-When program starts
+In order to start Habit Tracker, just go to terminal and execute main.py file. When program starts
 
 Habit Tracker Login Menu will appear. User will be asked to:
 		[1] Create New User
